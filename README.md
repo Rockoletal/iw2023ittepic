@@ -29,9 +29,10 @@ Practica 1  - GIT
     7.1 Subir los cambios al repositorio remoto
 
 8. Creacion de tabla
-Crear una tabla de este estilo en el archivo README.md con la información de al menos 5 de tus compañeros de clase
+    8.1 Crear una tabla con la información de al menos 5 de tus compañeros de clase
 
 | Nombre | Github |
+| ------------ | ------------ | 
 | GRAXIOLA QUIROZ JUAN ANTONIO | https://github.com/Railgun124 |
 | CALVARIO RAMÍREZ JOSÉ | https://github.com/JoseCalvario8 |
 | CARRILLO RUBIO JOSÉ GIOVANNI | https://github.com/GiovanniCarrillo |
