@@ -32,9 +32,11 @@ Practica 1  - GIT
 Crear una tabla de este estilo en el archivo README.md con la información de al menos 5 de tus compañeros de clase
 
 | Nombre | Github |
-| GRAXIOLA QUIROZ JUAN ANTONIO| https://github.com/Railgun124 |
-| CALVARIO RAMÍREZ JOSÉ| https://github.com/JoseCalvario8 |
-| CARRILLO RUBIO JOSÉ GIOVANNI| https://github.com/GiovanniCarrillo |
-| RAZON MACHAIN BRYAN PAUL| https://github.com/PaulRazon |
-| RAMOS RIVERA ANDRÉS SEBASTIAN| https://github.com/andrestian01 |
+| GRAXIOLA QUIROZ JUAN ANTONIO | https://github.com/Railgun124 |
+| CALVARIO RAMÍREZ JOSÉ | https://github.com/JoseCalvario8 |
+| CARRILLO RUBIO JOSÉ GIOVANNI | https://github.com/GiovanniCarrillo |
+| RAZON MACHAIN BRYAN PAUL | https://github.com/PaulRazon |
+| RAMOS RIVERA ANDRÉS SEBASTIAN | https://github.com/andrestian01 |
+
+
 
