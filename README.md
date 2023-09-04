@@ -51,6 +51,10 @@ Practica 1  - GIT
 7. Subir cambios
     7.1 Subir los cambios al repositorio remoto
 
+    ![Alt text](assets/9.PNG)  
+
+
+
 8. Creacion de tabla
     8.1 Crear una tabla con la información de al menos 5 de tus compañeros de clase
 
